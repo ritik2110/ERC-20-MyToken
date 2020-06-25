@@ -3,7 +3,7 @@ pragma solidity ^0.6.9;
 //@ import statement for the template to this contract. 
 import "ERC20Interface.sol";
  
-contract MyToken 
+contract ERC20Token
 {
     //@ Owner of this contract;
     //@ Initiale supply of token is held by the admin. 
